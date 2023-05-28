@@ -1,0 +1,21 @@
+body{
+    background-color:wheat;
+}
+h2{
+    background-color: blue;
+    width: fit-content;
+}
+.button button{
+font-size: 30px;
+background-color:aqua;
+padding: 10px;
+border: solid rgb(114, 114, 114) 4px;
+margin: 5px;
+}
+.button{
+    background-color: white;
+    width: fit-content;
+}
+#return{
+    background-color:lightslategrey;
+}
